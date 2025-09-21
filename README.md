@@ -1,0 +1,1 @@
+A Python-based desktop application for downloading videos and audio from multiple platforms. Supports various formats, quality options, and includes search functionality with a simple, user-friendly interface for an efficient and customizable experience.
